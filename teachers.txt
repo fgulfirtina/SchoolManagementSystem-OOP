@@ -1,0 +1,11 @@
+Teacher ID,TCKN,Title,Name,Surname,Email,Password,Birthdate,Phone,Address,Courses
+1000510101,10000000146,Professor,Ahmet,Yılmaz,ahmet.yilmaz@deu.edu.tr,password123,01/15/1975,+905026542321,Izmir/Buca,CME1010,CME2010
+1000510102,10000000154,Assistant Professor,Mehmet,Kaya,mehmet.kaya@deu.edu.tr,password456,05/22/1980,+905456542378,Izmir/Bornova,CME1020,CME2020
+1000510103,10000000162,Lecturer,Ayşe,Demir,ayse.demir@deu.edu.tr,password789,09/10/1978,+905235879645,Izmir/Karşıyaka,CME1030,CME2030
+1000510104,10000000170,Senior Lecturer,Elif,Şahin,elif.sahin@deu.edu.tr,password012,12/03/1982,+905487415421,Izmir/Göztepe,CME1040,CME2040
+1000510105,10000000189,Associate Professor,Mustafa,Çelik,mustafa.celik@deu.edu.tr,password345,07/18/1977,+905741234589,Izmir/Konak,CME1050,CME2050
+1000510106,10000000197,Professor,Zeynep,Aydın,zeynep.aydin@deu.edu.tr,password678,03/25/1985,+905052154236,Izmir/Balçova,CME3010,CME3020
+1000510107,10000000204,Assistant Professor,Hasan,Güler,hasan.guler@deu.edu.tr,password901,11/14/1979,+905123658974,Izmir/Çiğli,CME3030,CME3040
+1000510108,10000000212,Lecturer,Fatma,Yavuz,fatma.yavuz@deu.edu.tr,password234,04/29/1984,+905414587856,Izmir/Alsancak,CME3050,CME4010
+1000510109,10000000220,Senior Lecturer,Cem,Kara,cem.kara@deu.edu.tr,password567,02/06/1976,+905552024523,Izmir/Bornova,CME4020,CME4030
+1000510110,10000000239,Associate Professor,Melike,Polat,melike.polat@deu.edu.tr,password890,08/20/1981,+905201236987,Izmir/Buca,CME4040,CME4050

@@ -1,0 +1,21 @@
+String courseID, String courseName, int credit,boolean isElective,Course prerequesteryCourse,boolean isThereLabLessons
+CME1010,Introduction to Computer Engineering,3,false,,True
+CME1020,Logic Design,4,false,,True
+CME1030,Algorithms and Programming,5,false,,True
+CME1040,Discrete Mathematics,3,false,,false
+CME1050,Calculus,3,false,,false
+CME2010,Data Structures,4,false,CME1030,True
+CME2020,Computer Architecture,5,false,CME1020,True
+CME2030,Object-Oriented Programming,4,false,CME1030,True
+CME2040,Algorithm Analysis,5,false,CME1030,True
+CME2050,Physics,3,false,,false
+CME3010,Database Systems,5,false,CME2010,True
+CME3020,Computer Networks,4,false,CME2020,false
+CME3030,Software Engineering,4,false,CME2030,false
+CME3040,Web Development,3,false,CME2030,false
+CME3050,Operating Systems,4,false,CME2020,True
+CME4010,Artificial Intelligence,4,false,,false
+CME4020,Embedded Systems,5,false,CME3050,True
+CME4030,Computer Graphics,4,false,,false
+CME4040,Cybersecurity,4,false,,false
+CME4050,Machine Learning,4,false,CME2040,false

@@ -1,0 +1,14 @@
+courseID,assignmentName,dueDate,maxPoints,description
+CME1020,Logic Design,11/06/2024,100,Logic Gates and Circuits
+CME1030,Algorithms and Programming,12/06/2024,100,Sorting and Searching Algorithms
+CME2010,Data Structures,15/06/2024,100,Binary Trees
+CME2020,Computer Architecture,16/06/2024,100,CPU Design
+CME2030,Object-Oriented Programming,17/06/2024,100,OOP Principles
+CME2040,Algorithm Analysis,18/06/2024,100,Algorithm Complexity
+CME3010,Database Systems,20/06/2024,100,SQL Queries
+CME3050,Operating Systems,24/06/2024,100,Process Management
+CME4010,Artificial Intelligence,25/06/2024,100,Machine Learning Basics
+CME4020,Embedded Systems,26/06/2024,100,Microcontroller Programming
+CME4050,Machine Learning,29/06/2024,100,Neural Networks
+CME1040,HW1,20/05/2023,20,Solve the problems.
+CME1010,HW1,20/05/2023,100,HOMEWOTK

@@ -1,0 +1,1 @@
+TCKN,Name,Surname,Email,Password,Birthdate,PhoneNumber,Address

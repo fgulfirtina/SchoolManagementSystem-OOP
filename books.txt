@@ -1,0 +1,41 @@
+bookID,bookName,author,chapters,pages,edition,courseCode
+1,Fundamentals of Computer Engineering,John Smith,12,350,3,CME1010
+2,Computer Engineering Basics,Susan Clark,10,300,2,CME1010
+3,Principles of Logic Design,Jane Doe,10,400,2,CME1020
+4,Logic Design Essentials,Michael Brown,12,420,1,CME1020
+5,Introduction to Algorithms,Michael Johnson,15,500,1,CME1030
+6,Programming and Algorithms,Emily White,14,480,2,CME1030
+7,Discrete Mathematics for Computer Science,Rachel Green,14,450,4,CME1040
+8,Discrete Structures,David Lee,13,430,3,CME1040
+9,Calculus Made Easy,Thomas Anderson,10,600,3,CME1050
+10,Advanced Calculus,Jessica Miller,11,620,2,CME1050
+11,Data Structures and Algorithms,Emily Davis,16,550,2,CME2010
+12,Efficient Data Structures,Robert Wilson,15,530,1,CME2010
+13,Computer Architecture: A Quantitative Approach,Robert Brown,12,600,1,CME2020
+14,Modern Computer Architecture,Laura Taylor,13,610,2,CME2020
+15,Object-Oriented Design and Programming,Jessica White,11,500,2,CME2030
+16,Object-Oriented Analysis and Design,Daniel Moore,10,480,1,CME2030
+17,Advanced Algorithm Analysis,William Miller,14,550,3,CME2040
+18,Algorithm Design and Analysis,Jennifer Anderson,13,540,2,CME2040
+19,Physics for Engineers,Jennifer Wilson,12,400,4,CME2050
+20,Engineering Physics,Paul Thompson,11,420,3,CME2050
+21,Database System Concepts,David Moore,18,700,2,CME3010
+22,Relational Database Systems,Linda Harris,17,680,1,CME3010
+23,Computer Networking: A Top-Down Approach,Linda Taylor,13,450,1,CME3020
+24,Network Fundamentals,Steven Robinson,12,460,2,CME3020
+25,Software Engineering: A Practitioner's Approach,Daniel Harris,15,500,3,CME3030
+26,Software Engineering Fundamentals,Nancy Wright,14,490,2,CME3030
+27,Web Development with HTML CSS and JavaScript,Susan Clark,10,350,2,CME3040
+28,Advanced Web Development,David Young,11,370,1,CME3040
+29,Modern Operating Systems,Paul Lewis,13,600,1,CME3050
+30,Operating Systems Design,Emily Martin,12,590,2,CME3050
+31,Artificial Intelligence: A Modern Approach,Laura Robinson,12,550,4,CME4010
+32,Introduction to Artificial Intelligence,Kevin Walker,11,540,3,CME4010
+33,Embedded Systems Design,Kevin Walker,14,700,2,CME4020
+34,Embedded Systems Principles,John King,13,690,1,CME4020
+35,Compilers: Principles Techniques and Tools,Karen King,12,500,3,CME4030
+36,Introduction to Compiler Design,Robert Allen,11,480,2,CME4030
+37,Cybersecurity and Cyberwar,Nancy Wright,13,450,2,CME4040
+38,Fundamentals of Cybersecurity,Jennifer Young,12,440,1,CME4040
+39,Deep Learning,Steven Lopez,15,550,1,CME4050
+40,Machine Learning Basics,Thomas Lee,14,530,2,CME4050

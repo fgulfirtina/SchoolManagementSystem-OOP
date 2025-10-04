@@ -1,0 +1,52 @@
+rowID,teacherName,subjectCode,subjectTitle,notificationContent
+1,Professor Ahmet Yılmaz,CME1010,Introduction to Computer Engineering,Reminder: Homework #3 is due this Friday.
+2,Assistant Professor Mehmet Kaya,CME1020,Logic Design,Midterm exam will be held next Wednesday.
+3,Lecturer Ayşe Demir,CME1030,Algorithms and Programming,Please read Chapter 5 for Monday's class.
+4,Senior Lecturer Elif Şahin,CME1040,Discrete Mathematics,Submit your project proposals by the end of this week.
+5,Associate Professor Mustafa Çelik,CME1050,Calculus,Office hours are extended on Thursday.
+6,Professor Ahmet Yılmaz,CME2010,Data Structures,Lab reports must be submitted by tomorrow.
+7,Assistant Professor Mehmet Kaya,CME2020,Computer Architecture,Discussion on pipelining this Friday.
+8,Lecturer Ayşe Demir,CME2030,Object-Oriented Programming,Next lecture topic: Design Patterns.
+9,Senior Lecturer Elif Şahin,CME2040,Algorithm Analysis,Review session for the upcoming test on Tuesday.
+10,Associate Professor Mustafa Çelik,CME2050,Physics,Field trip to the particle accelerator next Thursday.
+11,Professor Zeynep Aydın,CME3010,Database Systems,Homework on normalization due by Friday.
+12,Professor Zeynep Aydın,CME3020,Computer Networks,Read Chapter 7 for next class.
+13,Assistant Professor Hasan Güler,CME3030,Software Engineering,Project proposals are due next Monday.
+14,Assistant Professor Hasan Güler,CME3040,Web Development,Check the online portal for lab results.
+15,Lecturer Fatma Yavuz,CME3050,Operating Systems,Prepare a short report on process scheduling.
+16,Lecturer Fatma Yavuz,CME4010,Artificial Intelligence,Complete the reading on neural networks by Thursday.
+17,Senior Lecturer Cem Kara,CME4020,Embedded Systems,Homework #5 is posted online.
+18,Senior Lecturer Cem Kara,CME4030,Computer Architecture,Review last week's lecture notes.
+19,Associate Professor Melike Polat,CME4040,Cybersecurity,There will be a quiz on encryption techniques on Friday.
+20,Associate Professor Melike Polat,CME4050,Machine Learning,Write a summary of the latest ML conference.
+21,Professor Ahmet Yılmaz,CME1010,Introduction to Computer Engineering,Extra credit problems are available online.
+22,Assistant Professor Mehmet Kaya,CME1020,Logic Design,Bring your textbook to the next class.
+23,Lecturer Ayşe Demir,CME1030,Algorithms and Programming,Essay on sorting algorithms due next week.
+24,Senior Lecturer Elif Şahin,CME1040,Discrete Mathematics,Project deadlines have been extended.
+25,Associate Professor Mustafa Çelik,CME1050,Calculus,New assignments are available on the course site.
+26,Professor Ahmet Yılmaz,CME2010,Data Structures,Check your email for lab guidelines.
+27,Assistant Professor Mehmet Kaya,CME2020,Computer Architecture,We will have a review session next class.
+28,Lecturer Ayşe Demir,CME2030,Object-Oriented Programming,Study the key design patterns from Chapter 7.
+29,Senior Lecturer Elif Şahin,CME2040,Algorithm Analysis,Practice problems for the final exam are online.
+30,Associate Professor Mustafa Çelik,CME2050,Physics,Submit your lab reports by Monday.
+31,Professor Zeynep Aydın,CME3010,Database Systems,Write an analysis of different database models.
+32,Professor Zeynep Aydın,CME3020,Computer Networks,Lab visit is scheduled for next Friday.
+33,Assistant Professor Hasan Güler,CME3030,Software Engineering,Review session will be held on Tuesday.
+34,Assistant Professor Hasan Güler,CME3040,Web Development,Read the latest journal article on web technologies.
+35,Lecturer Fatma Yavuz,CME3050,Operating Systems,Group presentations start next Wednesday.
+36,Lecturer Fatma Yavuz,CME4010,Artificial Intelligence,Submit research paper proposals by next week.
+37,Senior Lecturer Cem Kara,CME4020,Embedded Systems,Complete the assigned practice problems by Thursday.
+38,Senior Lecturer Cem Kara,CME4030,Computer Graphics,Check the forum for discussion topics.
+39,Associate Professor Melike Polat,CME4040,Cybersecurity,Bring your project drafts for peer review.
+40,Associate Professor Melike Polat,CME4050,Machine Learning,Next lecture on reinforcement learning.
+41,Professor Ahmet Yılmaz,CME1010,Introduction to Computer Engineering,Study the computer architecture overview for Friday's quiz.
+42,Assistant Professor Mehmet Kaya,CME1020,Logic Design,Lab experiment on logic circuits is on Friday.
+43,Lecturer Ayşe Demir,CME1030,Algorithms and Programming,Submit code reviews by Monday.
+44,Senior Lecturer Elif Şahin,CME1040,Discrete Mathematics,Watch the video on graph theory.
+45,Associate Professor Mustafa Çelik,CME1050,Calculus,Quiz on integration techniques this Wednesday.
+46,Professor Ahmet Yılmaz,CME2010,Data Structures,The data structures workshop is next month.
+47,Assistant Professor Mehmet Kaya,CME2020,Computer Architecture,Revise your architecture design plans and resubmit by next Friday.
+48,Lecturer Ayşe Demir,CME2030,Object-Oriented Programming,Prepare for the test on inheritance.
+49,Senior Lecturer Elif Şahin,CME2040,Algorithm Analysis,Work on the algorithm optimization assignment for extra credit.
+50,Associate Professor Mustafa Çelik,CME2050,Physics,Read Chapter 10 and answer the questions in the textbook.
+51,Professor Ahmet Yılmaz,CME1010,Introduction to Computer Engineering,do your homework.

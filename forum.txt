@@ -1,0 +1,6 @@
+rowID,courseID,courseName,studentEmail,studentNameSurname,studentMessageContent
+1,CME4020,Embedded Systems,2019510001@ogr.deu.edu.tr,Zeynep Yılmaz,Please help me! S.O.S. Message!!!! hw is very difficult you know huh???
+2,CME2010,Data Structures,2021510031@ogr.deu.edu.tr,Ege Tan,Please help with homework!
+3,CME2040,Algorithm Analysis,2021510031@ogr.deu.edu.tr,Ege Tan,pls help
+4,CME3040,Web Development,2020510027@ogr.deu.edu.tr,Cansu Dere,help me pls its too hard for my brain.
+5,CME3010,Database Systems,2019510001@ogr.deu.edu.tr,Zeynep Yılmaz,Help me its too HARD!

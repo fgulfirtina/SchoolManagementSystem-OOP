@@ -1,0 +1,7 @@
+rowID,mail,courseName,meetingDate
+1,2019510001@ogr.deu.edu.tr,CME1030,15/02/2020
+2,2019510001@ogr.deu.edu.tr,CME1030,25/05/2024
+3,2019510001@ogr.deu.edu.tr,Artificial Intelligence,20/05/2024
+4,2021510031@ogr.deu.edu.tr,CME2010,20/06/2024
+5,2021510031@ogr.deu.edu.tr,CME2030,23/05/2024
+6,2020510027@ogr.deu.edu.tr,CME4040,22/04/2004
